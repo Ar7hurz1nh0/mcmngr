@@ -32,12 +32,10 @@ jobs:
         shell: bash
         run: |
           echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
-      - name: Enter GUI directory
-        run: cd src/gui
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: cd src/gui && pnpm install --frozen-lockfile
       - name: Lint with Next.js 
-        run: pnpm lint
+        run: cd src/gui && pnpm lint
   build:
     runs-on: ubuntu-latest
 
