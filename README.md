@@ -37,7 +37,7 @@ All of this done through a nice GUI or even a CLI!
 
 > **Note:** "Server-side" refers to the machine that will be running the Minecraft server, not the machine that will be running the manager.
 
-1. Download the latest release from the [releases page](/releases).
+1. Download the latest release from the [releases page](https://github.com/Ar7hurz1nh0/mcmngr/releases).
 2. Execute the downloaded file, the installer will guide you through
   - Choose a directory to install the manager to
   - Choose a port to run the manager on
