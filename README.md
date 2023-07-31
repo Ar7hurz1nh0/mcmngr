@@ -50,7 +50,7 @@ This installer is entirely done through the command line, so you can use it on a
 
 > **Note:** "Client-side" refers to the machine that will be running the manager, not the machine that will be running the Minecraft server.
 
-1. Download the latest release from the [releases page](/releases).
+1. Download the latest release from the [releases page](https://github.com/Ar7hurz1nh0/mcmngr/releases).
 2. Execute the downloaded file and follow the installer's instructions.
 3. Enter your account credentials, or create a new account.
 4. Start managing your servers!
@@ -125,4 +125,4 @@ This installer is entirely done through the command line, so you can use it on a
   - [ ] GitHub
   - [ ] File upload
 
-### Want a new feature? [Ask here](/issues/new)
+### Want a new feature? [Ask here](https://github.com/Ar7hurz1nh0/mcmngr/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=[REQUEST]+Your+idea+here)
