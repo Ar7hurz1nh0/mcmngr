@@ -1,10 +1,14 @@
 "use client"
 import { useRouter } from 'next/navigation'
-// import Greet from '../components/greet'
-
+import { invoke } from '@tauri-apps/api/tauri'
+import { useEffect } from 'react';
 
 export default function Home() {
   const router = useRouter();
-  router.push("/home");
+  useEffect(() => {
+    invoke<void>('start')
+      .then(() => router.push("/home"))
+      .catch(console.error);
+  }, [router]);
   return <></>
 }

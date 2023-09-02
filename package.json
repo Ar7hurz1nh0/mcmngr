@@ -1,9 +1,0 @@
-{
-  "packageManager": "pnpm",
-  "scripts": {
-    "build": "cargo tauri build",
-    "lint": "pnpm run \"/^lint:.*/\"",
-    "lint:rust": "cargo check",
-    "lint:nextjs": "pnpm run --filter ./src/gui/ lint"
-  }
-}
