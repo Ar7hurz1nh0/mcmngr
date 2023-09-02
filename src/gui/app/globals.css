@@ -1,3 +1,62 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.inter {
+  font-family: "Inter";
+  /* src: url("/inter.ttf") format("ttf"); */
+}
+
+.inter-100 {
+  font-family: "Inter";
+  font-weight: 100;
+  /* src: url("/inter-100.ttf") format("ttf"); */
+}
+
+.inter-200 {
+  font-family: "Inter";
+  font-weight: 200;
+  /* src: url("/inter-200.ttf") format("ttf"); */
+}
+
+.inter-300 {
+  font-family: "Inter";
+  font-weight: 300;
+  /* src: url("/inter-300.ttf") format("ttf"); */
+}
+
+.inter-400 {
+  font-family: "Inter";
+  font-weight: 400;
+  /* src: url("/inter-400.ttf") format("ttf"); */
+}
+
+.inter-500 {
+  font-family: "Inter";
+  font-weight: 500;
+  /* src: url("/inter-500.ttf") format("ttf"); */
+}
+
+.inter-600 {
+  font-family: "Inter";
+  font-weight: 600;
+  /* src: url("/inter-600.ttf") format("ttf"); */
+}
+
+.inter-700 {
+  font-family: "Inter";
+  font-weight: 700;
+  /* src: url("/inter-700.ttf") format("ttf"); */
+}
+
+.inter-800 {
+  font-family: "Inter";
+  font-weight: 800;
+  /* src: url("/inter-800.ttf") format("ttf"); */
+}
+
+.inter-900 {
+  font-family: "Inter";
+  font-weight: 900;
+  /* src: url("/inter-900.ttf") format("ttf"); */
+}

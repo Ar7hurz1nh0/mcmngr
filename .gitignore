@@ -31,6 +31,7 @@
 
 # vercel
 /src/gui/.vercel
+.turbo
 
 # typescript
 /src/gui/*.tsbuildinfo

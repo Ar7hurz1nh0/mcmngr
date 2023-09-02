@@ -35,7 +35,7 @@ All of this done through a nice GUI or even a CLI!
 
 ### Server-side
 
-> **Note:** "Server-side" refers to the machine that will be running the Minecraft server, not the machine that will be running the manager.
+> **Note:** "Server-side" refers to the machine that will be running the Minecraft server (or the mcmngr daemon), not the machine that will be running the manager.
 
 1. Download the latest release from the [releases page](https://github.com/Ar7hurz1nh0/mcmngr/releases).
 2. Execute the downloaded file, the installer will guide you through
@@ -48,7 +48,7 @@ This installer is entirely done through the command line, so you can use it on a
 
 ### Client-side
 
-> **Note:** "Client-side" refers to the machine that will be running the manager, not the machine that will be running the Minecraft server.
+> **Note:** "Client-side" refers to the machine that will be running the gui/cli manager, not the machine that will be running the Minecraft server (or the mcmngr daemon).
 
 1. Download the latest release from the [releases page](https://github.com/Ar7hurz1nh0/mcmngr/releases).
 2. Execute the downloaded file and follow the installer's instructions.
