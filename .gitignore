@@ -3,36 +3,36 @@
 /target
 
 # dependencies
-/src/gui/node_modules
-/src/gui/.pnp
-/src/gui/.pnp.js
+/gui/node_modules
+/gui/.pnp
+/gui/.pnp.js
 
 # testing
-/src/gui/coverage
+/gui/coverage
 
 # next.js
-/src/gui/.next/
-/src/gui/out/
+/gui/.next/
+/gui/out/
 
 # production
-/src/gui/build
+/gui/build
 
 # misc
-/src/gui/.DS_Store
-/src/gui/*.pem
+/gui/.DS_Store
+/gui/*.pem
 
 # debug
-/src/gui/npm-debug.log*
-/src/gui/yarn-debug.log*
-/src/gui/yarn-error.log*
+/gui/npm-debug.log*
+/gui/yarn-debug.log*
+/gui/yarn-error.log*
 
 # local env files
-/src/gui/.env*.local
+/gui/.env*.local
 
 # vercel
-/src/gui/.vercel
+/gui/.vercel
 .turbo
 
 # typescript
-/src/gui/*.tsbuildinfo
-/src/gui/next-env.d.ts
+/gui/*.tsbuildinfo
+/gui/next-env.d.ts

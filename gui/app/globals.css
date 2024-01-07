@@ -60,3 +60,7 @@
   font-weight: 900;
   /* src: url("/inter-900.ttf") format("ttf"); */
 }
+
+.maximize-icon:hover > .main-window-icon {
+  @apply animate-[maximize_1s_2];
+}
